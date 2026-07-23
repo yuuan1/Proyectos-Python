@@ -3,6 +3,7 @@
 #   -La función recibirá por parámetro sólo UN polígono a la vez.
 #   -Los polígonos soportados serán Triángulo, Cuadrado y Rectángulo.
 #   -Imprime el cálculo del área de un polígono de cada tipo.
+
 triangulo = 0
 base = 0
 altura = 0
